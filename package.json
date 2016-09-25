@@ -1,0 +1,23 @@
+{
+  "name": "@amadsen/devtest",
+  "version": "1.0.0",
+  "description": "Demonstrating development skills...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amadsen/devtest.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amadsen/devtest/issues"
+  },
+  "homepage": "https://github.com/amadsen/devtest#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "tape": "^4.6.0"
+  }
+}
