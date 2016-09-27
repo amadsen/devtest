@@ -1,5 +1,5 @@
 {
-  "id": "10010013",
+  "id": "00987322",
   "heading": "Etiam Ipsum Euismod",
   "meta": "Fringilla Commodo",
   "category": "in-your-area",
@@ -10,10 +10,11 @@
     "Nulla vitae elit libero, a pharetra augue. Nullam id dolor id nibh ultricies vehicula ut id elit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras mattis consectetur purus sit amet fermentum."
   ],
   "media": [
-    {"type": "image", "src": "/media/images/photo03.jpg"},
-    {"type": "image", "src": "/media/images/photo04.jpg"}
+    {"type": "image", "src": "/media/images/photo01.jpg"},
+    {"type": "image", "src": "/media/images/photo02.jpg"}
   ],
   "related":[
-    {"type": "video", "src": "/media/images/vidoe02"}
+    {"type": "video", "src": "/media/images/vidoe01"},
+    {"type": "article", "id": "12345678"}
   ]
 }

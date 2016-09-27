@@ -1,8 +1,8 @@
 {
-  "id": "12345678",
+  "id": "00345231",
   "heading": "Etiam Ipsum Euismod",
   "meta": "Fringilla Commodo",
-  "category": "in-your-area",
+  "category": "news",
   "teaser": "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus.",
   "content": [
     "Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Aenean lacinia bibendum nulla sed consectetur. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus.",
@@ -14,6 +14,5 @@
     {"type": "image", "src": "/media/images/photo02.jpg"}
   ],
   "related":[
-    {"type": "article", "id": "10000012"}
   ]
 }
