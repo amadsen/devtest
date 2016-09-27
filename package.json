@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/amadsen/devtest#readme",
   "dependencies": {
+    "chokidar": "^1.6.0",
     "express": "^4.14.0",
     "tape": "^4.6.0"
   }
