@@ -6,6 +6,7 @@ First, I want to reach out and thank you for applying for a web development posi
 ## Overview of the tasks
 Depending on the position you are applying for you will have a choice on which tasks you complete.
 For all of them, there are a few things to do:
+
 * To start, fork the repo.
 * Use the spec sheet in the comps folder for details you may need, if there is something missing feel free to email questions.
 * Create a tag after you have developed for 1hr called 1hr, and, if you hit the 3hr mark create another called 3hr.
@@ -20,16 +21,19 @@ There are three position levels for these tasks, entry, mid-sr, and lead. We wil
 
 #### Entry Level
 If you are applying for an internship through an entry level position (usually levels 1-2):
+
 * Code up the article
 * and choose one other task to code. (pick the one you feel most comfortable doing, or one you want to learn something with.)
 
 #### Mid to Senior
 If you are applying for a mid to senior level position (usually levels 3-4):
+
 * Code up the article
 * Choose two other tasks to code. I'll want to know why you chose the ones you did.
 
 #### Lead and above
 If you are applying for a Lead or above position (usually level 5+):
+
 * You don't get a choice, code all tasks please, We'll have a bunch of questions for you after.
 * Think of it as the start of a system.
 

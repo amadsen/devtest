@@ -1,5 +1,5 @@
 {
-  "id": "10000012",
+  "id": "12345678",
   "heading": "Etiam Ipsum Euismod",
   "meta": "Fringilla Commodo",
   "category": "in-your-area",
@@ -14,7 +14,6 @@
     {"type": "image", "src": "/media/images/photo02.jpg"}
   ],
   "related":[
-    {"type": "video", "src": "/media/images/vidoe01"},
-    {"type": "article", "id": "12345678"}
+    {"type": "article", "id": "10000012"}
   ]
 }
