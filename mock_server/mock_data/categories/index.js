@@ -57,6 +57,7 @@ watchList.push({
 let categoryRouter = express.Router();
 categoryRouter.use('/', function (req, res, next) {
   if(req.path === '/'){
+    res.setHeader('Cache-Control', 'public, max-age=0');
     return res.json({
       "last-update": lastUpdate.toUTCString(),
       "list": Object.keys(categoryLists)
@@ -68,6 +69,7 @@ categoryRouter.use('/', function (req, res, next) {
 categoryRouter.use('/:categoryId', function (req, res, next) {
   let category = categoryLists[req.params.categoryId];
   if(category){
+    res.setHeader('Cache-Control', 'public, max-age=0');
     return res.json({
       id: category.id,
       title: category.title,

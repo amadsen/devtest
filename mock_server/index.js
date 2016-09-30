@@ -158,6 +158,7 @@ function startHttpServer(cfg) {
       }, mockData);
 
       if (data) {
+        res.setHeader('Cache-Control', 'public, max-age=0');
         return res.json(data);
       }
 
